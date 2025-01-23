@@ -1,0 +1,8 @@
+print("Twinkle, twinkle, little star,")
+spacedtexts = "How I wonder what you are!".rjust(30)
+print(spacedtexts)
+spacedtexts1 = "Up above the world so high,".rjust(35)
+print(spacedtexts1)
+print("Twinkle, twinkle, little star,")
+spacedtexts = "How I wonder what you are".rjust(30)
+print(spacedtexts)
